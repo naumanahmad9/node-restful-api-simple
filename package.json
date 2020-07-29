@@ -12,7 +12,7 @@
     "restful",
     "api"
   ],
-  "author": "Nauman",
+  "author": "Nauman Ahmad",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^1.0.3",
